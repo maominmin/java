@@ -1,5 +1,3 @@
-package com.ryit.test;
-
 import java.util.HashSet;
 
 public class Test {
